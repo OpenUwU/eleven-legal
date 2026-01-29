@@ -1,51 +1,155 @@
 # Privacy Policy
 
-**Last Updated:** [29 Jan 2026]
+**Last Updated:** January 29, 2026
 
-This Privacy Policy describes how Yukihana ("we", "us", or "our") collects, uses, and stores information when you use our Discord music bot application. We are committed to protecting your privacy and ensuring you have control over your data.
+---
+
+## Welcome to Yukihana's Privacy Center
+
+At **Yukihana** ("we", "us", or "our"), your privacy isn't just important—it's *essential*. This Privacy Policy explains how we handle your data with care and transparency while delivering the best music experience on Discord.
+
+---
 
 ## 1. Information We Collect
 
-We collect only the minimum amount of data required to provide our music and playlist services. This data includes:
+We believe in **data minimalism**—we only collect what's necessary to make your music experience exceptional.
 
-### User Data
-* **Discord User ID:** Used to identify your unique account, link your premium status, and manage your playlists.
-* **Listening History:** A list of tracks you have recently played (if history is enabled).
-* **Favorites:** A list of tracks you have explicitly marked as favorites.
-* **Spotify Profile:** Your Spotify profile URL if you choose to link it.
-* **Playlists:** Custom playlists created by you, including playlist names, track data, and collaborator IDs.
+### 1.1 User Data
 
-### Server (Guild) Data
-* **Guild ID:** Used to save server-specific settings.
-* **Configuration:** Custom prefixes, default volume settings, 24/7 mode status, and ignored channels.
-* **Queues:** The current music queue state is stored temporarily to persist playback across sessions.
+| Data Type | Purpose | Details |
+|-----------|---------|---------|
+| **Discord User ID** | Account identification & premium linking | Unique identifier for your Discord account |
+| **Listening History** | Track recently played songs | Optional feature—can be disabled |
+| **Favorites** | Store your favorite tracks | Explicitly marked songs |
+| **Spotify Profile** | Link your Spotify account | Optional integration |
+| **Playlists** | Custom playlists & collaborations | Names, tracks, and collaborator information |
+
+### 1.2 Server (Guild) Data
+
+| Data Type | Purpose |
+|-----------|---------|
+| **Guild ID** | Save server-specific settings |
+| **Configuration** | Custom prefixes, volume, 24/7 mode, ignored channels |
+| **Queues** | Persist playback state across sessions |
+
+---
 
 ## 2. How We Use Your Information
 
 The information we collect is used solely for the following purposes:
-* **Core Functionality:** To play music, manage queues, and store your custom playlists.
-* **Personalization:** To maintain your listening history and favorites list.
-* **Premium Features:** To verify and maintain subscription status for premium tiers.
-* **Session Management:** To restore your volume settings and voice channel connection state (e.g., 24/7 mode).
+
+### Core Functionality
+- Play music seamlessly across voice channels
+- Manage queues and store custom playlists
+- Maintain consistent playback experience
+
+### Personalization
+- Remember your favorite tracks
+- Track listening history (when enabled)
+- Provide tailored recommendations
+
+### Premium Features
+- Verify and maintain subscription status
+- Unlock tier-specific features
+- Manage premium benefits
+
+### Session Management
+- Restore volume settings and preferences
+- Maintain 24/7 mode voice channel connections
+- Preserve queue state across bot restarts
+
+---
 
 ## 3. Data Control and Your Rights
 
-You have full control over your data directly through the bot's interface. Using the `/privacy` command, you can:
+**You have complete control over your data.** All privacy settings can be managed directly through the bot interface.
 
-* **Toggle History:** You may enable or disable the tracking of your listening history at any time.
-* **Visibility:** You may toggle the visibility of your Spotify profile between Public and Private.
-* **Deletion:** You can permanently clear your listening history and favorites list.
-* **Playlists:** You can create, edit, or delete your custom playlists and remove collaborators.
+### Using the `/privacy` Command
+
+```
+Available Options:
+├── History Toggle ─────── Enable or disable listening history tracking
+├── Visibility Settings ── Set Spotify profile to Public or Private
+├── Data Deletion ──────── Permanently clear history and favorites
+└── Playlist Management ── Create, edit, or delete playlists and collaborators
+```
+
+### Your Rights Include:
+
+- **Right to Access**: View all data we store about you
+- **Right to Deletion**: Remove your history, favorites, or entire account data
+- **Right to Modification**: Update or change your preferences at any time
+- **Right to Opt-Out**: Disable optional features like listening history
+
+---
 
 ## 4. Data Retention
 
-* **Persistent Data:** User settings, playlists, favorites, and history are stored until you manually delete them or request data deletion.
-* **Session Data:** Temporary session data (such as active queues) may be cleared periodically or upon bot restarts.
+### Persistent Data
+User settings, playlists, favorites, and history are stored indefinitely until you manually delete them or request data removal.
+
+### Temporary Data
+Session data such as active queues may be cleared periodically or upon bot restarts to optimize performance and storage.
+
+---
 
 ## 5. Third-Party Sharing
 
-We do not sell, trade, or rent your personal identification information to others. Data is strictly used for the internal operation of the Yukihana bot.
+### We DO NOT:
+- Sell your personal data to third parties
+- Trade or rent your information to advertisers
+- Share your data with external organizations
+- Use your data for purposes outside bot operations
 
-## 6. Contact
+### We DO:
+- Keep all data strictly internal
+- Use information solely for bot functionality
+- Maintain strict security protocols
+- Respect your privacy at all times
 
-If you have questions about this Privacy Policy or wish to request full data deletion, please contact the bot developers via our support server.
+---
+
+## 6. Data Security
+
+We implement industry-standard security measures to protect your data:
+
+- Encrypted data transmission
+- Secure database storage
+- Regular security audits
+- Access controls and authentication
+
+However, no method of transmission over the internet is 100% secure. While we strive to protect your personal information, we cannot guarantee absolute security.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or for legal reasons. We will notify users of any material changes through:
+
+- Bot announcements
+- Support server notifications
+- Updated "Last Modified" date at the top of this document
+
+---
+
+## 8. Contact Us
+
+If you have questions about this Privacy Policy or wish to request full data deletion, please contact us:
+
+**Support Server**: Join our Discord support server for direct assistance  
+**Response Time**: We aim to respond within 48 hours
+
+---
+
+<div align="center">
+
+### Built with Privacy in Mind
+
+*Yukihana respects your data because we respect you.*
+
+---
+
+**Effective Date:** January 29, 2026  
+**Version:** 1.0
+
+</div>
