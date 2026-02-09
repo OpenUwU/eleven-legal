@@ -1,12 +1,12 @@
 # Terms of Service
 
-**Last Updated:** January 29, 2026
+**Last Updated:** February 9, 2026
 
 ---
 
 ## Agreement to Terms
 
-By inviting or using **Yukihana** ("the Bot", "we", "us", or "our") in your Discord server, you agree to be bound by these Terms of Service. If you do not agree to these terms, please discontinue use of the Bot immediately.
+By inviting or using **Eleven** ("the Bot", "we", "us", or "our") in your Discord server, you agree to be bound by these Terms of Service. If you do not agree to these terms, please discontinue use of the Bot immediately.
 
 ---
 
@@ -49,7 +49,7 @@ Violations may result in:
 
 ## 3. Premium Services
 
-Certain features of Yukihana are restricted to **Premium users** through subscription-based access.
+Certain features of Eleven are restricted to **Premium users** through subscription-based access.
 
 ### 3.1 Subscription Terms
 
@@ -225,7 +225,7 @@ If you have questions about these Terms of Service, please contact us:
 
 ### Agreement Acknowledgment
 
-By using Yukihana, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
+By using Eleven, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
 
 ---
 
