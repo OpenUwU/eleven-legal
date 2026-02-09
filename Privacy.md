@@ -1,12 +1,12 @@
 # Privacy Policy
 
-**Last Updated:** January 29, 2026
+**Last Updated:** February 9, 2026
 
 ---
 
-## Welcome to Yukihana's Privacy Center
+## Welcome to Eleven's Privacy Center
 
-At **Yukihana** ("we", "us", or "our"), your privacy isn't just important—it's *essential*. This Privacy Policy explains how we handle your data with care and transparency while delivering the best music experience on Discord.
+At **Eleven** ("we", "us", or "our"), your privacy isn't just important—it's *essential*. This Privacy Policy explains how we handle your data with care and transparency while delivering the best music experience on Discord.
 
 ---
 
@@ -21,7 +21,6 @@ We believe in **data minimalism**—we only collect what's necessary to make you
 | **Discord User ID** | Account identification & premium linking | Unique identifier for your Discord account |
 | **Listening History** | Track recently played songs | Optional feature—can be disabled |
 | **Favorites** | Store your favorite tracks | Explicitly marked songs |
-| **Spotify Profile** | Link your Spotify account | Optional integration |
 | **Playlists** | Custom playlists & collaborations | Names, tracks, and collaborator information |
 
 ### 1.2 Server (Guild) Data
@@ -69,7 +68,6 @@ The information we collect is used solely for the following purposes:
 ```
 Available Options:
 ├── History Toggle ─────── Enable or disable listening history tracking
-├── Visibility Settings ── Set Spotify profile to Public or Private
 ├── Data Deletion ──────── Permanently clear history and favorites
 └── Playlist Management ── Create, edit, or delete playlists and collaborators
 ```
@@ -145,7 +143,7 @@ If you have questions about this Privacy Policy or wish to request full data del
 
 ### Built with Privacy in Mind
 
-*Yukihana respects your data because we respect you.*
+*Eleven respects your data because we respect you.*
 
 ---
 
